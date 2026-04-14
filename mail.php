@@ -5,7 +5,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 var_dump($_POST);
 var_dump($_GET);
 
-//Script Foreach
+//Script Foreachfdsfdsf
 $c = true;
 if ( $method === 'POST' ) {
 
